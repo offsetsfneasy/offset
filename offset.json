@@ -1,7 +1,7 @@
 {
   "offsets": {
     "UWORLD": "0x1780BA78",
-    "GAME_INSTANCE": "0x240",
+    "GAME_INSTANCE": "0x250",
     "LOCAL_PLAYERS": "0x38",
     "PLAYER_CONTROLLER": "0x30",
     "LOCAL_PAWN": "0x358",
@@ -32,8 +32,8 @@
     "GAME_TIME_SECONDS": "0x180",
     "visible_seconds": "0x190",
     "Player_Camera": "0x28",
-    "LOCATION_POINTER": "0x178",
-    "ROTATION_POINTER": "0x188",
+    "LOCATION_POINTER": "0x180",
+    "ROTATION_POINTER": "0x190",
     "VELOCITY_OFFSET": "0x188",
     "RETICLE_OFFSET": "0x2BA0",
     "CurrentVehicle_OFFSET": "0x2C58"
