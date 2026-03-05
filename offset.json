@@ -1,7 +1,7 @@
 {
   "offsets": {
-    "UWORLD": "0x178D5418",
-    "GAME_INSTANCE": "0x250",
+    "UWORLD": "0x17842098",
+    "GAME_INSTANCE": "0x238",
     "LOCAL_PLAYERS": "0x38",
     "PLAYER_CONTROLLER": "0x30",
     "LOCAL_PAWN": "0x358",
@@ -10,8 +10,8 @@
     "RELATIVE_LOCATION": "0x140",
     "PLAYER_STATE": "0x2D0",
     "TEAM_INDEX": "0x11B1",
-    "PlayerCameraManager": "0x360",
-    "GAME_STATE": "0x1D8",
+    "PlayerCameraManager": "0x368",
+    "GAME_STATE": "0x1c0",
     "PLAYER_ARRAY": "0x2C8",
     "GEngine": "0x178D6D90",
     "GameViewport": "0xAE0",
