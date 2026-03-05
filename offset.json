@@ -32,8 +32,8 @@
     "GAME_TIME_SECONDS": "0x180",
     "visible_seconds": "0x190",
     "Player_Camera": "0x28",
-    "LOCATION_POINTER": "0x170",
-    "ROTATION_POINTER": "0x180",
+    "LOCATION_POINTER": "0x180",
+    "ROTATION_POINTER": "0x190",
     "VELOCITY_OFFSET": "0x188",
     "RETICLE_OFFSET": "0x2B80",
     "CurrentVehicle_OFFSET": "0x2C68"
