@@ -1,7 +1,7 @@
 {
   "offsets": {
     "UWORLD": "0x17842098",
-    "GAME_INSTANCE": "0x238",
+    "GAME_INSTANCE": "0x240",
     "LOCAL_PLAYERS": "0x38",
     "PLAYER_CONTROLLER": "0x30",
     "LOCAL_PAWN": "0x358",
@@ -25,7 +25,7 @@
     "PLATFORM": "0x440",
     "PLAYERNAME": "0xA08",
     "CURRENT_WEAPON": "0x990",
-    "WEAPON_DATA": "0x5F0",
+    "WEAPON_DATA": "0x5B8",
     "TARGETED_FORT_PAWN": "0x1830",
     "PROJECTILE_SPEED": "0x239C",
     "PROJECTILE_GRAVITY": "0x23A0",
@@ -35,8 +35,8 @@
     "LOCATION_POINTER": "0x180",
     "ROTATION_POINTER": "0x190",
     "VELOCITY_OFFSET": "0x188",
-    "RETICLE_OFFSET": "0x2B80",
-    "CurrentVehicle_OFFSET": "0x2C68"
+    "RETICLE_OFFSET": "0x2b80",
+    "CurrentVehicle_OFFSET": "0x2c68"
   },
   "version": "1.0",
   "last_updated": "2026-02-03"
