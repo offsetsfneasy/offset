@@ -1,7 +1,7 @@
 {
   "offsets": {
     "UWORLD": "0x17842098",
-    "GAME_INSTANCE": "0x240",
+    "GAME_INSTANCE": "0x238",
     "LOCAL_PLAYERS": "0x38",
     "PLAYER_CONTROLLER": "0x30",
     "LOCAL_PAWN": "0x358",
