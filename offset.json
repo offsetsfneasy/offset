@@ -13,7 +13,7 @@
     "PlayerCameraManager": "0x368",
     "GAME_STATE": "0x1D8",
     "PLAYER_ARRAY": "0x2C8",
-    "GEngine": "0x194034B8",
+    "GEngine": "0x19373048",
     "GameViewport": "0xAE0",
     "World": "0x78",
     "MESH": "0x330",
@@ -35,7 +35,7 @@
     "LOCATION_POINTER": "0x180",
     "ROTATION_POINTER": "0x190",
     "VELOCITY_OFFSET": "0x188",
-    "RETICLE_OFFSET": "0x2B80",
+    "RETICLE_OFFSET": "0x29F0",
     "TIME_SECONDS": "0x198",
     "LAST_RENDER_TIME": "0x330",
     "CurrentVehicle_OFFSET": "0x2d10"
