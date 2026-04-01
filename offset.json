@@ -38,7 +38,7 @@
     "RETICLE_OFFSET": "0x2B80",
     "TIME_SECONDS": "0x198",
     "LAST_RENDER_TIME": "0x330",
-    "CurrentVehicle_OFFSET": "0x2CF0"
+    "CurrentVehicle_OFFSET": "0x2d10"
     
   },
   "version": "1.0",
