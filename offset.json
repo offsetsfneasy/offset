@@ -1,17 +1,17 @@
 {
   "offsets": {
-    "UWORLD": "0x1895DE60",
-    "GAME_INSTANCE": "0x250",
+    "UWORLD": "0x18DA4D70",
+    "GAME_INSTANCE": "0x248",
     "LOCAL_PLAYERS": "0x38",
     "PLAYER_CONTROLLER": "0x30",
     "LOCAL_PAWN": "0x358",
     "PAWN_PRIVATE": "0x328",
     "ROOT_COMPONENT": "0x1b0",
     "RELATIVE_LOCATION": "0x140",
-    "PLAYER_STATE": "0x2B8",
+    "PLAYER_STATE": "0x2d0",
     "TEAM_INDEX": "0x11C1",
     "PlayerCameraManager": "0x368",
-    "GAME_STATE": "0x1D8",
+    "GAME_STATE": "0x1d0",
     "PLAYER_ARRAY": "0x2C8",
     "GEngine": "0x1895F6B8",
     "GameViewport": "0xAE0",
@@ -38,7 +38,7 @@
     "RETICLE_OFFSET": "0x29F0",
     "TIME_SECONDS": "0x198",
     "LAST_RENDER_TIME": "0x330",
-    "CurrentVehicle_OFFSET": "0x2d10"
+    "CurrentVehicle_OFFSET": "0x2d20"
     
   },
   "version": "1.0",
