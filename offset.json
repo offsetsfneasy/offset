@@ -35,7 +35,7 @@
     "LOCATION_POINTER": "0x180",
     "ROTATION_POINTER": "0x190",
     "VELOCITY_OFFSET": "0x188",
-    "RETICLE_OFFSET": "0x29F0",
+    "RETICLE_OFFSET": "0x26C0",
     "TIME_SECONDS": "0x198",
     "LAST_RENDER_TIME": "0x330",
     "CurrentVehicle_OFFSET": "0x2d20"
